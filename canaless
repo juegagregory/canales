@@ -2,3 +2,5 @@
 
 #EXTINF:-1, ABC
 https://h5.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDEyOjE1OjM3IEFNJmhhc2hfdmFsdWU9RlptSmVjOUVBSGdzbTlCbWhwK0M4UT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1, YES 
+https://h4.ustvgo.la/YES/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDE6MDM6NTYgQU0maGFzaF92YWx1ZT1RMFRUSnN5MXBJUFRtUi9CdnBUOU13PT0mdmFsaWRtaW51dGVzPTI0MA==
