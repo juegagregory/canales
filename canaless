@@ -4,3 +4,5 @@
 https://h5.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDEyOjE1OjM3IEFNJmhhc2hfdmFsdWU9RlptSmVjOUVBSGdzbTlCbWhwK0M4UT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1, YES 
 https://h4.ustvgo.la/YES/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDE6MDM6NTYgQU0maGFzaF92YWx1ZT1RMFRUSnN5MXBJUFRtUi9CdnBUOU13PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, UNIVISION
+https://unidfp-nlds155.global.ssl.fastly.net/linear/hls/pa/event/6dOH8HqxTnqnHWQk6s174g/stream/ae9b2c2e-f6f2-4e58-aa47-561f139e1974:MRN2/variant/52fd239386f3a26e6979b990193b02d9/bandwidth/4500000.m3u8?hdnea=st=1650681742~exp=1650768142~acl=*~hmac=4c2bca549491b2485a56d41f4a58faa5278b516674ea47e36e87a6ed094f1066&fsrc=player
