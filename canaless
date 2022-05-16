@@ -2,8 +2,8 @@
 
 #EXTINF:-1, ABC
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
-#EXTINF:-1, UNIVISION
-https://unidfp-nlds155.global.ssl.fastly.net/linear/hls/pa/event/6dOH8HqxTnqnHWQk6s174g/stream/ae9b2c2e-f6f2-4e58-aa47-561f139e1974:MRN2/variant/52fd239386f3a26e6979b990193b02d9/bandwidth/4500000.m3u8?hdnea=st=1650681742~exp=1650768142~acl=*~hmac=4c2bca549491b2485a56d41f4a58faa5278b516674ea47e36e87a6ed094f1066&fsrc=player
+#EXTINF:-1, UNIVISION MIAMI
+https://pubads.g.doubleclick.net/ondemand/hls/content/2554571/vid/BS_4241001/CHS/streams/a89d7736-bab6-42c4-987d-9e8fa4586ec0/media/36ab5517f05afcaef855376bf5144fcc.m3u8
 #EXTINF:-1, ABC wilkes Barre PA
 https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
 #EXTINF:-1, tnt
