@@ -10,3 +10,5 @@ https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, ABC Austin tx
 https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
+#EXTINF:-1, ESPN
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
