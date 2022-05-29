@@ -2,9 +2,8 @@
 
 #EXTINF:-1, ABC
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
-#EXTINF:-1, Digital 15
-https://list.iptvcat.com/my_list/s/35ff18da4cda7197774d341d8b3b553a.m3u8
-#EXTINF:-1, ABC wilkes Barre PA
+#EXTINF:-1, ESPN
+https://list.iptvcat.com/my_list/s/4d048bbe920f1b4ca71d4fb4834ad595.m3u8#EXTINF:-1, ABC wilkes Barre PA
 https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
 #EXTINF:-1, tnt
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
