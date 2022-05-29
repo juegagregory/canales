@@ -2,8 +2,8 @@
 
 #EXTINF:-1, ABC
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
-#EXTINF:-1, CBS Sports
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/692524a9-f380-4978-8fa8-9ca0421341d5:MRN2/variant/e9fb5818977104098eceaa0a7fe15f91/bandwidth/5859480.m3u8?CMCD=mtp%3D112800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22e19d8931-45ba-4e22-8caa-2d8337965d26%22
+#EXTINF:-1, Digital 15
+https://list.iptvcat.com/my_list/s/35ff18da4cda7197774d341d8b3b553a.m3u8
 #EXTINF:-1, ABC wilkes Barre PA
 https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
 #EXTINF:-1, tnt
