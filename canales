@@ -1,8 +1,8 @@
 EXTM3U
 #EXTINF:-1, Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1, Univision
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059381?checkedby:iptvcat.com
+#EXTINF:-1, Telemundo Prueba
+http://sprtlive33.akamaized.net/hls/live/586452/TelemundoDeportes4e146c4c/clear-1/exp=1671129420~acl=%2fhls%2flive%2f586452*~data=hdntl~hmac=a2941c47db4fb1dea7816ec5eebde1efad2fd5736b024cd66986da1d42f1e54a/VIDEO_1_4596000.m3u8
 #EXTINF:-1, Canal de noticias Argentina
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58721?checkedby:iptvcat.com
 #EXTINF:-1, Microvision
