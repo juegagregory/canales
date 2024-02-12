@@ -1,8 +1,8 @@
 EXTM3U
 #EXTINF:-1, Platzi tv
 https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream/5ba02fd50f8c3d0d79f7a665/playout/index-v1-a1.m3u8?aid=512e13acaca1ebcd2f000279&uid=juLDkOwqprcyEYR5zXfTbANvtA5adJ0a&sid=mmWNnt521kw5UPqV0pOrjfXetKloU31W&pid=6ay4K1u5wFM6wB6DhxojlrhpyWEJsWcd&ref=https%3A%2F%2Fplatzi.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1676749343349&ot=zPi2ebzI1FJpm9GPXmcMHw&proto=https&pz=us
-#EXTINF:-1,Univision
-https://live.telelatinohd.com:8080/NzQuOTAuNzUuNDg=/62_.m3u8?token=zRd4XOzNOrtvEZXGvpKM1g&expires=1689913961
+#EXTINF:-1,superbowl
+https://y.tryandrew.shop/cbs2.m3u8
 #EXTINF:-1, TNT 2
 http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/87945?checkedby:iptvcat.com
 #EXTINF:-1, Microvision
