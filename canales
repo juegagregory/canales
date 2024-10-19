@@ -2,9 +2,9 @@ EXTM3U
 #EXTINF:-1, mets game 
 https://e.trydarius.shop/fs1-1.m3u8
 #EXTINF:-1,Yankees game
-https://e.trydarius.shop/fs1-1.m3u8
-#EXTINF:-1, TNT 2
-http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/87945?checkedby:iptvcat.com
+https://b.trydarius.shop/tbs-1.m3u8
+#EXTINF:-1, WNBA
+https://e.trydarius.shop/espn.m3u8?t=51
 #EXTINF:-1, Microvision
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, Digital 15
