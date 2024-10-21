@@ -1,8 +1,8 @@
 EXTM3U
-#EXTINF:-1, Yankees Game 
-https://b.trydarius.shop/tbs-1.m3u8
-#EXTINF:-1,WNBA
-https://e.trydarius.shop/espn.m3u8?t=51
+#EXTINF:-1, Dodgers game  
+https://d.trydarius.shop/fs1-1.m3u8
+#EXTINF:-1,MLB
+https://d.trydarius.shop/fs1-1.m3u8
 #EXTINF:-1, WNBA
 https://e.trydarius.shop/espn.m3u8?t=51
 #EXTINF:-1, Microvision
