@@ -1,8 +1,8 @@
 EXTM3U
-#EXTINF:-1, Dodgers game  
-https://g.trydarius.shop/fox-1.m3u8
+#EXTINF:-1, Dodgers game 
+https://f.trydarius.shop/fox-1.m3u8
 #EXTINF:-1,Yankees 
-https://g.trydarius.shop/fox-1.m3u8
+https://f.trydarius.shop/fox-1.m3u8
 #EXTINF:-1, Microvision
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, Digital 15
