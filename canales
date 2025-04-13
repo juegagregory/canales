@@ -1,8 +1,8 @@
 EXTM3U
-#EXTINF:-1, NFL
-https://pl.riveerquik.site/playlist/29965/example.com/caxi.m3u8
-#EXTINF:-NFL2
-https://pl2.rnbrigt.space/playlist/30505/example.com/caxi.m3u8
+#EXTINF:-1, ESPN
+https://v17.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=JEyeSUdATpL08_lJ2gzKxg&expires=1744592314&user_id=b0c3anJIVTc1T3U2b3BOMFRYeE1ZcTRuWkRwWDZ6U1lDSlpNcElOWQ==
+  #EXTINF:-ESPN DEPORTES
+https://v5.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8?token=ZuQKkvulLjXGrBwXRnE0zg&expires=1744592440&user_id=b0c3anJIVTc1T3U2b3BOMFRYeE1ZcTRuWkRwWDZ6U1lDSlpNcElOWQ==
 #EXTINF:-1, Microvision
 https://b.trydarius.shop/pnba2.m3u8
 #EXTINF:-1, Digital 15
