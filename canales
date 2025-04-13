@@ -1,10 +1,8 @@
 EXTM3U
 #EXTINF:-1, ESPN
 https://v17.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=JEyeSUdATpL08_lJ2gzKxg&expires=1744592314&user_id=b0c3anJIVTc1T3U2b3BOMFRYeE1ZcTRuWkRwWDZ6U1lDSlpNcElOWQ==
-  #EXTINF:-ESPN DEPORTES
-https://v5.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8?token=ZuQKkvulLjXGrBwXRnE0zg&expires=1744592440&user_id=b0c3anJIVTc1T3U2b3BOMFRYeE1ZcTRuWkRwWDZ6U1lDSlpNcElOWQ==
-#EXTINF:-1, Microvision
-https://b.trydarius.shop/pnba2.m3u8
+#EXTINF:-1, ESPN Deportes
+https://v14.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8?token=bloj_8GfPROl4scgL4DTiw&expires=1744594334&user_id=b0c3anJIVTc1T3U2b3BOMFRYeE1ZcTRuWkRwWDZ6U1lDSlpNcElOWQ==
 #EXTINF:-1, Digital 15
 https://playback.akamaized.net/streams/27456795_10633798_lsi8y7c84vlwz9idxrm_1/media/27456795_10633798_lsi8y7c84vlwz9idxrm_1@5256000p.m3u8?dw=14400&ts=1676070000&hdnts=exp=1676243727~acl=/streams/27456795_10633798_lsi8y7c84vlwz9idxrm_1/media*~hmac=d518d5d182b7aad1020ddddb6a9ceff52cc79a786cb09bbd608cbed5fa4e2610
 #EXTINF:-1, CDN DEPORTES
